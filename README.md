@@ -5,8 +5,7 @@
      development ( MERN stack ) and also learning DSA.
 - 💞️ I’m looking to collaborate on web dev projects.
 - 📫 You reach out to me through LinkedIn.
-     Check out my profile on LinkedIn 
-     (https://www.linkedin.com/in/aniket-chavan-155b08197)
+     Check out my profile (https://www.linkedin.com/in/aniket-chavan-155b08197)
 
 <!---
 chavananiket38/chavananiket38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
