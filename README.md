@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning full stack 
      development ( MERN stack ) and also learning DSA.
 - 💞️ I’m looking to collaborate on web dev projects.
-- 📫 You reach out to me through LinkedIn 
-     Check out Aniket Chavan’s profile on LinkedIn 
+- 📫 You reach out to me through LinkedIn.
+     Check out my profile on LinkedIn 
      (https://www.linkedin.com/in/aniket-chavan-155b08197)
 
 <!---
