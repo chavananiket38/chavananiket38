@@ -42,7 +42,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aniket-chavan-155b08197/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aniket%20Chavan%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/aniket-chavan-155b08197/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aniket%20Chavan-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/__aniketchavan__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-__aniketchavan__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:chavananiket38@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chavananiket38@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
