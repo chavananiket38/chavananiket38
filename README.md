@@ -1,4 +1,4 @@
-<img align="center" src="https://i.ibb.co/vz1X27Q/github-profile-gif.gif">
+<img align="center" src="https://i.ibb.co/8sHY6xF/github-profile.jpg">
 
 <h2> Hey there! I'm Aniket.</h2>
 
